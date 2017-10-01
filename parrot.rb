@@ -6,7 +6,7 @@ def parrot
 end
 
 
-##def parrot(phrase)
-#  puts phrase
-#  phrase
-#end
+def parrot(phrase)
+  puts phrase
+  phrase
+end
